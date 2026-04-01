@@ -9,20 +9,23 @@ This repository is a collection of my data analysis projects where I dive deep i
 | :--- | :--- | :--- |
 | **Ed Tech Start Ups** | Analyze the growth, funding stages, and market penetration of educational technology startups to identify success factors. | Market trends, top-funded regions, and key drivers of startup growth and sustainability. |
 | **Data Jobs Dashboard** | Interactive Power BI dashboard analyzing global data professional salaries, job roles, and required skills. | Salary distribution by experience level, top-paying roles, and high-demand skills. |
-| **Website Traffic Analysis & Forecasting** | Analyze website traffic data and forecast future trends using SARIMA. | Traffic patterns, user engagement, future traffic predictions to optimize digital strategies. |
-| **Rainfall Trend in India (1901-2015)** | Analyze rainfall patterns across India, uncover trends, and predict future rainfall for better resource management and agricultural planning. | Long-term trends, seasonal patterns, and forecasting of future rainfall. |
-| **Store Sales and Profit Analysis** | Analyze sales, profit margins, and discount effects to identify trends and improve profitability. | Sales trends, profitable products, regional performance, discount impact. |
-| **Food Delivery Cost and Profitability Analysis** | Examines cost structure, profitability, and discount strategies for a food delivery service. | Peak order times, discount impact on profits, optimized pricing strategies. |
-| **Falcon 9 Landing Prediction** | Analyze SpaceX Falcon 9 launch data and predict landing success to estimate launch costs. | Success rate trends by year, orbit, and site; cost implications of first stage reusability. |
 
 ---
 
 ## 🛠️ Tools & Technologies Used
-* **Data Analysis:** Python (Pandas, NumPy), SQL
+* **Data Analysis :** Python (Pandas, NumPy), SQL
 * **Data Visualization:** Power BI (`.pbix`), Tableau, Matplotlib, Seaborn
 * **Statistical Modeling:** SARIMA, Scikit-learn
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+
 
 ---
 
-## 📬 Contact
-Feel free to browse through the folders to explore the code, queries, and dashboards! If you have any questions or want to connect, feel free to reach out.
+## 📬 How to Contribute
+Feel free to fork the repository and create pull requests with your suggestions, improvements, or fixes! I appreciate contributions from the data science community.
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a pull request
