@@ -1,24 +1,28 @@
-# Data Jobs Dashboard w/ Power BI
 
- <a href="https://lukeb.co/powerbi-project1" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
+# Welcome to My Data Analyst Projects Repository!
 
+This repository is a collection of my data analysis projects where I dive deep into analyzing, visualizing, and extracting actionable insights from various datasets. Each project showcases different aspects of data cleaning, exploratory data analysis (EDA), dashboard creation, and data storytelling. Below is an overview of the projects included in this repository:
 
-## Introduction
+## Projects Overview
 
-This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
+| Project Title | Description | Key Insights |
+| :--- | :--- | :--- |
+| **Ed Tech Start Ups** | Analyze the growth, funding stages, and market penetration of educational technology startups to identify success factors. | Market trends, top-funded regions, and key drivers of startup growth and sustainability. |
+| **Data Jobs Dashboard** | Interactive Power BI dashboard analyzing global data professional salaries, job roles, and required skills. | Salary distribution by experience level, top-paying roles, and high-demand skills. |
+| **Website Traffic Analysis & Forecasting** | Analyze website traffic data and forecast future trends using SARIMA. | Traffic patterns, user engagement, future traffic predictions to optimize digital strategies. |
+| **Rainfall Trend in India (1901-2015)** | Analyze rainfall patterns across India, uncover trends, and predict future rainfall for better resource management and agricultural planning. | Long-term trends, seasonal patterns, and forecasting of future rainfall. |
+| **Store Sales and Profit Analysis** | Analyze sales, profit margins, and discount effects to identify trends and improve profitability. | Sales trends, profitable products, regional performance, discount impact. |
+| **Food Delivery Cost and Profitability Analysis** | Examines cost structure, profitability, and discount strategies for a food delivery service. | Peak order times, discount impact on profits, optimized pricing strategies. |
+| **Falcon 9 Landing Prediction** | Analyze SpaceX Falcon 9 launch data and predict landing success to estimate launch costs. | Success rate trends by year, orbit, and site; cost implications of first stage reusability. |
 
-### Dashboard File
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).  
+---
 
-## Skills Showcased
+## 🛠️ Tools & Technologies Used
+* **Data Analysis:** Python (Pandas, NumPy), SQL
+* **Data Visualization:** Power BI (`.pbix`), Tableau, Matplotlib, Seaborn
+* **Statistical Modeling:** SARIMA, Scikit-learn
 
--   **⚙️ Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
--   **🧮 Implicit Measures:** Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
--   **📊 Core Charts:** Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
--   **🗺️ Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distribution of jobs.
--   **🔢 KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
--   **🎨 Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
--   **🖱️ Interactive Reporting:**
-    -   **Slicers:** To dynamically filter the report by Job Title.
-    -   **Buttons & Bookmarks:** To create a seamless navigation experience.
-    -   **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
+---
+
+## 📬 Contact
+Feel free to browse through the folders to explore the code, queries, and dashboards! If you have any questions or want to connect, feel free to reach out.
