@@ -9,7 +9,7 @@ This repository is a collection of my data analysis projects where I dive deep i
 | :--- | :--- | :--- |
 | **Ed Tech Start Ups** | Analyze the growth, funding stages, and market penetration of educational technology startups to identify success factors. | Market trends, top-funded regions, and key drivers of startup growth and sustainability. |
 | **Data Jobs Dashboard** | Interactive Power BI dashboard analyzing global data professional salaries, job roles, and required skills. | Salary distribution by experience level, top-paying roles, and high-demand skills. |
-| **Customer Shopping Behavior** | This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. |
+| **Customer Shopping Behavior** | This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. | Data Preparation,Modeling , Exploratory Data Analysis(Python) & Analysis(SQL) & Visualization (Power BI).  |
 
 ---
 
